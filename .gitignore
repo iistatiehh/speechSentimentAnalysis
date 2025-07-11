@@ -1,1 +1,3 @@
 data/combined.csv
+speechSentimentAnalysis/processed_data/
+speechSentimentAnalysis/saved_features/

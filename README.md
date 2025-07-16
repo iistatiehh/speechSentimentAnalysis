@@ -1,4 +1,4 @@
-# speechSentimentAnalysis# Speech Emotion Recognition
+# Speech Emotion Recognition
 
 Deep learning project for classifying emotions from speech audio using multiple approaches including traditional feature extraction and transformer-based models.
 

@@ -1,6 +1,7 @@
 # Speech Emotion Recognition
 
 Deep learning project for classifying emotions from speech audio using multiple approaches including traditional feature extraction and transformer-based models.
+[Speech Sentiment Recognition Project Documentation.pdf](https://github.com/user-attachments/files/21293534/Speech.Sentiment.Recognition.Project.Report2.pdf)
 
 ## Overview
 
